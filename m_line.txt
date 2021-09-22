@@ -1,2 +1,6 @@
 This is the main file where i am coding
+<<<<<<< HEAD
 checking ammend command
+=======
+NOw we are in bugfix
+>>>>>>> bugfix
