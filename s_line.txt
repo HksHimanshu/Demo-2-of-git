@@ -4,3 +4,4 @@ changing to use mixed  reset option
 checking ammend command
 currently trying to check the working of git stash
 Yes it worked.
+Now I am trying editing from github ,Hope it works.
