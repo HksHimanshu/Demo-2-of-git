@@ -2,3 +2,5 @@ This is the secondary file where i am coding
 Using code again
 changing to use mixed  reset option
 checking ammend command
+currently trying to check the working of git stash
+Yes it worked.
