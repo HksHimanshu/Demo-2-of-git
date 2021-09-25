@@ -2,5 +2,5 @@ This is the main file where i am coding
 <<<<<<< HEAD
 checking ammend command
 =======
-NOw we are in bugfix
+NOw we are in bugfix trying some bugfix out there.
 >>>>>>> bugfix
